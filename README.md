@@ -1,9 +1,9 @@
 # Pacnam C++ 2021
-Hra v konzolovej aplikácii inšpirovaná hrou Pacman.
+Jednoduchá hra v konzolovej aplikácii inšpirovaná hrou Pacman. Školský projekt.
 
 Využitie OOP v C++11 na OS Windows.
 
-Dátum vytvorenia: apríli 2021.
+Dátum vytvorenia: apríl 2021.
 
 Použité IDE: Code::Blocks 17.12
 
