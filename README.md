@@ -11,6 +11,8 @@ Jazyk: slovenčina
 
 Autor: Jozef Benc
 
+Ovdládanie: pohyb WASD alebo šípky, exit E.
+
 Ukážka hry:
 
 ![Preview](./ukazka.jpg)
