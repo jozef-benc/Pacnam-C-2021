@@ -13,4 +13,4 @@ Autor: Jozef Benc
 
 Ukážka hry:
 
-![Preview](./preview.jpg)
+![Preview](./ukazka.jpg)
